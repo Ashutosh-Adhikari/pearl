@@ -9,14 +9,17 @@ authors:
 license: Apache-2.0
 repository-code: "https://github.com/Ashutosh-Adhikari/pearl"
 preferred-citation:
-  type: article
+  type: conference-paper
   title: "Multimodal Latent Reasoning via Predictive Embeddings"
   authors:
     - family-names: Adhikari
       given-names: Ashutosh
     - family-names: Lapata
       given-names: Mirella
-  journal: "arXiv preprint arXiv:2604.08065"
+  collection-title: "Conference on Language Modeling (COLM)"
+  conference:
+    name: "Conference on Language Modeling (COLM 2026)"
+    city: "San Francisco"
   year: 2026
   url: "https://openreview.net/pdf?id=E44oGC9FRV"
 references:
