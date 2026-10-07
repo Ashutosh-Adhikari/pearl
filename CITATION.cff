@@ -18,7 +18,7 @@ preferred-citation:
       given-names: Mirella
   journal: "arXiv preprint arXiv:2604.08065"
   year: 2026
-  url: "https://arxiv.org/abs/2604.08065"
+  url: "https://openreview.net/pdf?id=E44oGC9FRV"
 references:
   - type: software
     title: "LLM-JEPA"

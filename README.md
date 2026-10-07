@@ -1,7 +1,7 @@
 # PEARL: Multimodal Latent Reasoning via Predictive Embeddings
 
 Code for **PEARL** (**P**redictive **E**mbedding **A**lignment for **R**easoning in **L**atent space),
-from [*Multimodal Latent Reasoning via Predictive Embeddings*](https://arxiv.org/abs/2604.08065)
+from [*Multimodal Latent Reasoning via Predictive Embeddings*](https://openreview.net/pdf?id=E44oGC9FRV)
 by Ashutosh Adhikari and Mirella Lapata.
 
 PEARL fine-tunes a vision-language model on expert tool-use trajectories (crops, bounding boxes,
