@@ -132,12 +132,13 @@ are licensed under Apache-2.0; see [NOTICE](NOTICE).
 ## Citation
 
 ```bibtex
-@inproceedings{adhikari2026pearl,
-  title     = {Multimodal Latent Reasoning via Predictive Embeddings},
-  author    = {Adhikari, Ashutosh and Lapata, Mirella},
-  booktitle = {Conference on Language Modeling (COLM)},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=E44oGC9FRV}
+@inproceedings{
+adhikari2026multimodal,
+title={Multimodal Latent Reasoning via Predictive  Embeddings},
+author={Ashutosh Adhikari and Mirella Lapata},
+booktitle={Third Conference on Language Modeling},
+year={2026},
+url={https://openreview.net/forum?id=E44oGC9FRV}
 }
 ```
 

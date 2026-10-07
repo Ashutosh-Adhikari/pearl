@@ -16,12 +16,12 @@ preferred-citation:
       given-names: Ashutosh
     - family-names: Lapata
       given-names: Mirella
-  collection-title: "Conference on Language Modeling (COLM)"
+  collection-title: "Third Conference on Language Modeling"
   conference:
     name: "Conference on Language Modeling (COLM 2026)"
     city: "San Francisco"
   year: 2026
-  url: "https://openreview.net/pdf?id=E44oGC9FRV"
+  url: "https://openreview.net/forum?id=E44oGC9FRV"
 references:
   - type: software
     title: "LLM-JEPA"
