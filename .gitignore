@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+runs/
+merged/
+results/
+data/
+wandb/
+*.log
+analysis/paths.json

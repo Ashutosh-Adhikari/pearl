@@ -1,0 +1,14 @@
+torch==2.8.0
+torchvision
+transformers==4.54.0
+trl==0.17.0
+peft==0.15.2
+accelerate==1.6.0
+datasets==3.5.1
+deepspeed==0.18.2
+liger-kernel==0.5.8
+qwen-vl-utils==0.0.14
+wandb==0.19.10
+pandas
+pillow
+tqdm

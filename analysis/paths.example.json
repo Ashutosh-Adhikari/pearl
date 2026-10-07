@@ -1,0 +1,18 @@
+{
+  "PEARL_BLINK": "results/<pearl_run>/blink.json",
+  "PEARL_VSTAR": "results/<pearl_run>/vstar.json",
+  "PEARL_MMVP": "results/<pearl_run>/mmvp.json",
+
+  "LVR_BLINK": "results/<lvr_run>/blink.json",
+  "LVR_VSTAR": "results/<lvr_run>/vstar.json",
+  "LVR_MMVP": "results/<lvr_run>/mmvp.json",
+
+  "PR_BLINK": "results/pixelreasoner/blink/blink_results.json",
+  "PR_BLINK_TRACES": "results/pixelreasoner/blink/blink_traces.json",
+  "PR_VSTAR": "results/pixelreasoner/vstar/vstar_results.json",
+  "PR_VSTAR_TRACES": "results/pixelreasoner/vstar/vstar_traces.json",
+  "PR_MMVP": "results/pixelreasoner/MMVP/MMVP_results.json",
+  "PR_MMVP_TRACES": "results/pixelreasoner/MMVP/MMVP_traces.json",
+
+  "MMVP_CSV": "data/MMVP/Questions.csv"
+}

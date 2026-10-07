@@ -1,0 +1,13 @@
+PEARL
+Copyright 2026 Ashutosh Adhikari and Mirella Lapata, University of Edinburgh.
+
+This product includes software derived from LLM-JEPA
+(https://github.com/rbalestr-lab/llm-jepa), by Hai Huang, Yann LeCun and
+Randall Balestriero, licensed under the Apache License, Version 2.0.
+Files derived from it (pearl/data.py, pearl/model.py, pearl/trainer.py,
+pearl/train.py) carry a notice describing the modifications.
+
+This product includes software derived from LVR (Latent Visual Reasoning,
+https://github.com/VincentLeebang/lvr), licensed under the Apache License,
+Version 2.0. Files derived from it: eval/evaluate.py (modified, see file
+header) and configs/ds_zero2.json (unmodified).

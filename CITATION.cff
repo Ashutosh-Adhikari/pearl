@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PEARL: Multimodal Latent Reasoning via Predictive Embeddings"
+authors:
+  - family-names: Adhikari
+    given-names: Ashutosh
+  - family-names: Lapata
+    given-names: Mirella
+license: Apache-2.0
+repository-code: "https://github.com/Ashutosh-Adhikari/pearl"
+preferred-citation:
+  type: article
+  title: "Multimodal Latent Reasoning via Predictive Embeddings"
+  authors:
+    - family-names: Adhikari
+      given-names: Ashutosh
+    - family-names: Lapata
+      given-names: Mirella
+  journal: "arXiv preprint arXiv:2604.08065"
+  year: 2026
+  url: "https://arxiv.org/abs/2604.08065"
+references:
+  - type: software
+    title: "LLM-JEPA"
+    authors:
+      - family-names: Huang
+        given-names: Hai
+      - family-names: LeCun
+        given-names: Yann
+      - family-names: Balestriero
+        given-names: Randall
+    repository-code: "https://github.com/rbalestr-lab/llm-jepa"
+    license: Apache-2.0
